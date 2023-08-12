@@ -1,0 +1,26 @@
+#container{
+    font-size: 100px;
+    font-weight: bold;
+    color:blue;
+    display:flex;
+    justify-content: center;
+    
+}
+#player{
+    display:flex;
+    justify-content: center;
+}
+#player1{
+    margin-right: 30px;
+}
+p.nm{
+    font-size: 50px;
+    font-weight: bold;
+    color:aqua;
+}
+#decision{
+    font-size: 50px;
+    margin-top: 5px;
+    display:flex;
+    justify-content: center;
+}
